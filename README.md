@@ -35,3 +35,24 @@ The dashboard helps answer key business questions and provides stakeholders with
 9. How does revenue vary across different occasions?
 10. Which products are most popular for specific occasions?
 
+
+## KPIs
+
+| KPI                                     | Value      |
+| --------------------------------------- | ---------- |
+| Total Orders Placed                     | 1,000      |
+| Total Revenue                           | ₹3,520,984 |
+| Average Days Between Order and Delivery | 5.53 Days  |
+| Average Customer Spending               | ₹3,521     |
+
+## Tools Used
+
+* Microsoft Excel
+* Power Query
+* Power Pivot
+* Pivot Tables
+* Pivot Charts
+* DAX Measures
+* Interactive Slicers
+* Data Cleaning and Transformation
+* Dashboard Design and Visualization
