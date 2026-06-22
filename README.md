@@ -56,3 +56,47 @@ The dashboard helps answer key business questions and provides stakeholders with
 * Interactive Slicers
 * Data Cleaning and Transformation
 * Dashboard Design and Visualization
+
+
+## Key Insights
+
+### Revenue Analysis
+
+* Generated total revenue of ₹3.52 Million from 1,000 orders.
+* Average customer spending was ₹3,521 per order.
+
+### Occasion-wise Analysis
+
+* Anniversary generated the highest revenue among all occasions.
+* Raksha Bandhan and Holi contributed significantly to total sales.
+* Valentine's Day and Diwali recorded comparatively lower revenue.
+
+### Product Performance
+
+* Magnam Set, Quia Gift, Dolores Gift, Harum Pack, and Deserunt Box were the top-performing products.
+* A small group of products contributed a major share of overall revenue.
+
+### Category Analysis
+
+* Colors emerged as the highest revenue-generating category.
+* Soft Toys and Cakes also showed strong sales performance.
+
+### City-wise Analysis
+
+* Dhanbad, Imphal, and Kavali were among the top-performing cities based on order volume.
+* Regional demand patterns varied significantly across locations.
+
+### Monthly Sales Trends
+
+* Sales peaks were observed in February, August, and November.
+* Seasonal occasions and festivals had a strong influence on purchasing behavior.
+
+### Order Time Analysis
+
+* Higher order activity was observed during afternoon and evening hours.
+* Peak order periods can be targeted for promotional campaigns.
+
+### Delivery Performance
+
+* Average delivery time was 5.53 days.
+* Delivery efficiency remains an important factor for customer satisfaction.
