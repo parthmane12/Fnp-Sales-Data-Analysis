@@ -1,7 +1,7 @@
 # Ferns N Petals Sales Analysis Dashboard
 
-An interactive Excel dashboard built to analyze Ferns N Petals sales performance across occasions, products, cities, and customer purchasing patterns.
+## Project Overview
 
-## Dashboard Preview
+This project presents an interactive Sales Analysis Dashboard for Ferns N Petals (FNP), a gifting company specializing in products for occasions such as Birthdays, Anniversaries, Diwali, Holi, Raksha Bandhan, and Valentine's Day.
 
-![Dashboard](Dashboard.png)
+The dashboard was developed using Microsoft Excel to analyze sales performance, customer purchasing behavior, product trends, and delivery efficiency. The goal of this project is to transform raw transactional data into meaningful business insights that support data-driven decision-making.
