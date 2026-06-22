@@ -100,3 +100,20 @@ The dashboard helps answer key business questions and provides stakeholders with
 
 * Average delivery time was 5.53 days.
 * Delivery efficiency remains an important factor for customer satisfaction.
+
+
+## Project Highlights
+
+* Built an interactive and dynamic sales dashboard in Microsoft Excel.
+* Cleaned and transformed raw data using Power Query.
+* Created KPI cards to track key business metrics.
+* Developed occasion-wise, city-wise, category-wise, and product-wise analysis.
+* Implemented slicers and filters for interactive reporting.
+* Visualized sales trends and customer behavior using charts and dashboards.
+* Generated actionable insights to support business decision-making.
+
+## Conclusion
+
+This project demonstrates the use of Microsoft Excel as a Business Intelligence tool for sales analytics. Through data cleaning, transformation, visualization, and KPI tracking, the dashboard provides valuable insights into customer behavior, product performance, sales trends, and operational efficiency.
+
+The analysis helps identify high-performing products, occasions, and regions while highlighting opportunities for improving marketing strategies, inventory planning, and customer experience. The dashboard serves as an effective decision-support tool for data-driven business growth.
